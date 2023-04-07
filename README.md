@@ -14,7 +14,7 @@ To run the Lottery_game, follow these steps:
  - Run the file and follow the prompts
 
 ## Other Resources
-Python Libraries:
+Libraries:
 
  - random
  - Matplotlib
